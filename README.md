@@ -17,10 +17,19 @@ numpy
 seaborn
 matplotlib
 scikit-learn
+
 Installing
 Clone this repository or download the files.
 Place the Iris.csv file in the same directory as the Python file.
 Run the script using any Python IDE or Jupyter environment.
+
+Running the Tests
+The model is evaluated on a hold-out test dataset using the following metrics:
+
+Breakdown of Tests
+Accuracy Score – Compares actual and predicted values.
+Classification Report – Provides precision, recall, f1-score.
+Confusion Matrix – Visualized using a heatmap to show prediction results for each class.
 
 Deployment
 This project is meant for educational purposes and is not deployed to any server or production environment. You can run it locally.
