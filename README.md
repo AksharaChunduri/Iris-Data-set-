@@ -4,13 +4,13 @@ Individual project-1 for DATA 1202
 **## Project Title
 **Iris Flower Classification using Support Vector Machine (SVM)****
 
-##Short Description 
+## Short Description 
 A machine learning project that classifies Iris flower species using Support Vector Machine (SVM) with hyperparameter tuning via GridSearchCV. The model evaluates accuracy through classification reports and confusion matrix visualization.
 
-##Getting Started
+## Getting Started
 This project involves reading the Iris dataset, preprocessing it, training a model using SVM, tuning hyperparameters, and evaluating its performance through classification metrics and a confusion matrix.
 
-###Prerequisites
+### Prerequisites
 Make sure you have the following Python libraries installed:
 pandas
 numpy
